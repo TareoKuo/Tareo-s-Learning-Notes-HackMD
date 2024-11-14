@@ -19,7 +19,7 @@ IPMI specification : [Sepcification Link](https://www.intel.com.tw/content/www/t
 ![image](https://hackmd.io/_uploads/S1cB4AhiA.png)
 
 <h2>
-    Platforms
+    Intel Platforms
 </h2>
 
 代號表
@@ -40,6 +40,13 @@ EGS ArcherCity
 **EGS** - Eagle Stream
 **BHS** - Birch Stream
 :::
+
+<h2>
+    AMD Server code
+</h2>
+
+![image](https://hackmd.io/_uploads/rk3-Hzmf1x.png)
+
 
 <h2>
     C++ Compile process
