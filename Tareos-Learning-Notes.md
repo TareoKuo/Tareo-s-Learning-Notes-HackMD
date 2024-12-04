@@ -32,7 +32,7 @@
 * [OpenBMC service-config-manager](/-A3PQTIXTpWPVNPn-WozVw)
 * [OpenBMC Time](/yK_zolWXRDakRVzH4Dp5Eg)
 * [OpenBMC PLDM ](/mF8J2UivQbyyDi-Bkwl0lg)
-* [NCSI（Network Controller Sideband Interface）](/MgtfJg_uTuSv9FR09q84ag)
+* [NC-SI and BMC Network](/MgtfJg_uTuSv9FR09q84ag)
 * [Multi-Function Pin and DTS](/N8MjLstDSv6-fPhmTF7fIA)
 * [intel-ipmi-oem](/I9G8uqOwRvSQZHwteqC8rA)
 * [Aspeed AST2600 Video Engine](/MHZic8FYSZC296EcBvNUWw)
@@ -45,6 +45,14 @@
 * [SNMP](/0NZAGJ1JRJ6T6LgAOojoaA)
 * [Memory Resilience Technology](/npeSCsYGRsmQa-8msF1XbQ)
 * [FMC SPI FLASH](/KgfSMF0UTHGZvgNPNj-TLg)
+* [OpenBMC phosphor-state-manager](/BH5TjyDBQiu3xYZ_3mgyyA)
+* [OpenBMC Led](/9T1xM4gjQpWAYQXBNMp0_A)
+* [OpenBMC phosphor-inventory-manager](/5i0eR0I0Qdukk23gr_6new)
+* [OpenBMC SEL (System Event Log)](/ISCCy3pqQ9SQxgw9Odu09A)
+* [OpenBMC iKVM](/Qx4KGTSETGiwTY1j7ziXhA)
+* [OpenBMC Software Version Management and Image Update](/vk7uRu5fRy-t8PtvlcSInA)
+* [OpenBMC phosphor-dbus-interfaces](/eAtmoMW1SYe-1VSpzalGXA)
+* [OpenBMC peci-pcie and PECI related](/CvEkgpzCQ7-5AjnowO9XqA)
 
 <h2>
     Specification and Protocol
@@ -58,6 +66,7 @@
 * [Firmware Firewall, Other IPMI Command, DCMI](/oYa5gnQCTTS0spJrxn54jw)
 * [IPMI Serial Channel, SOL](/wxUJatzqQ7adKraGtTItJw)
 * [ACPI (Advanced Configuration and Power Interface)](/tfmXm2BiRyKfDKEqCpsfnQ)
+* [SGPIO](/THD7UHAhQPKaDqcSiKCvpg)
 
 <h2>
     Hardware knowledge supplement
@@ -93,6 +102,7 @@
     Yocto
 </h2>
 
+* [Yocto Basis Knowledge](/xZVLwhaNTP26RaH17qFsjA)
 * [Yocto inherit externalsrc and from GIT](/IrKSLX59R52oXPDLuAcung)
 * [Yocto Build File](/LvbfmqOzS_CFCKiNFststA)
 * [BSP (Board Support Package)](/cHO7yjmpQu2paUDzAwcaKw)
@@ -121,6 +131,12 @@
 * [Command](/ofIfLoUpSYOl3VYOpHwnAQ)
 * [Mount a Filesystem using an overlay](/BXcs5CF9SlOzNg1bMGw6ew)
 * [SNMP Programing](/eeyyDZG1RG6TCsR43N0-kw)
+
+<h2>
+    AMD OpenBMC
+</h2>
+
+* [AMDESE OpenBMC](/Uz4WxjggSqyu6_pbB9d65A)
 
 <h2>
     待整理
